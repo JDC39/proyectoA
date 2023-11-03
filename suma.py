@@ -5,3 +5,7 @@ c = int(input("ingresa un numero: "))
 def sum(a,b,c):
     suma = a + b + c
     print(suma)
+
+def res(a,c):
+    resta = a - c
+    print(resta)    
