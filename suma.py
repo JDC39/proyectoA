@@ -9,3 +9,7 @@ def sum(a,b,c):
 def res(a,c):
     resta = a - c
     print(resta)    
+
+def prod(a,b):
+    producto = a * b
+    print(producto)
