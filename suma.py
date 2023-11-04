@@ -6,3 +6,10 @@ def suma(a,b,c):
     sum = a + b + c
     print(sum)
 
+def resta(a,c):
+    res = a + b + c
+    print(res)
+
+def producto(a,b):
+    prod = a * b
+    print(prod)   
