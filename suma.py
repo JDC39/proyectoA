@@ -13,3 +13,7 @@ def resta(a,c):
 def producto(a,b):
     prod = a * b
     print(prod)   
+
+def potencia(a,b):
+    pot = a ** b  
+    print(pot)
