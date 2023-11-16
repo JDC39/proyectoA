@@ -17,3 +17,7 @@ def producto(a,b):
 def potencia(a,b):
     pot = a ** b  
     print(pot)
+
+def ecuacion1(a,b):
+    ecua1 = a**2*2*a*b-b**3
+    print(ecua1)
