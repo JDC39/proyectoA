@@ -29,3 +29,7 @@ def ecuacion2(a,b):
 def ecuacion3(a,b):
     ecua3 = ((a-b)/b**3-a**3)-(a**2)+(b**3)  
     print(ecua3)
+
+def ecuacion4(a,b):
+    ecua4 = (a*b-(a**2)/(b**2))
+    print(ecua4)    
