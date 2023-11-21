@@ -21,3 +21,11 @@ def potencia(a,b):
 def ecuacion1(a,b):
     ecua1 = a**2*2*a*b-b**3
     print(ecua1)
+
+def ecuacion2(a,b):
+    ecua2 = b**3*3*a*b-a**3
+    print(ecua2) 
+
+def ecuacion3(a,b):
+    ecua3 = ((a-b)/b**3-a**3)-(a**2)+(b**3)  
+    print(ecua3)
