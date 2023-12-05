@@ -36,3 +36,8 @@ def ecuacion4(a,b):
 
 def ecuacion5(a,b):
     ecua5 = (a-2**a)*2/(b-2**b)*2
+    print(ecua5)
+
+def ecuacion6(a,c):
+    ecua6 = ((a * b ) * ( a / b ))
+    print(ecua6)
