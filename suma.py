@@ -34,12 +34,7 @@ def ecuacion4(a,b):
     ecua4 = (a*b-(a**2)/(b**2))
     print(ecua4)    
 
-def ecuacion5(a,b):
-    ecua5 = (a-2**a)*2/(b-2**b)*2
-    print(ecua5)
 
-def ecuacion6(a,c):
-    ecua6 = ((a * b ) * ( a / b ))
-    print(ecua6)
-# hola soy  jd voy agregar mas codigo a tu repositorio
+separador = "-"
+print(separador * 200)
 
