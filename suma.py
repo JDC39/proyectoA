@@ -33,3 +33,8 @@ def ecuacion3(a,b):
 def ecuacion4(a,b):
     ecua4 = (a*b-(a**2)/(b**2))
     print(ecua4)    
+
+
+separador = "-"
+print(separador * 200)
+
