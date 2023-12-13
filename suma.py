@@ -41,3 +41,5 @@ def ecuacion5(a,b):
 def ecuacion6(a,c):
     ecua6 = ((a * b ) * ( a / b ))
     print(ecua6)
+# hola soy  jd voy agregar mas codigo a tu repositorio
+
