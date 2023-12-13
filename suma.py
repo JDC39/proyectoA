@@ -21,3 +21,5 @@ def potencia(a,b):
 def ecuacion1(a,b):
     ecua1 = a**2*2*a*b-b**3
     print(ecua1)
+
+print("he creado varias ecuaciones  si ves el cambio ")    
