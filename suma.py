@@ -38,3 +38,5 @@ def ecuacion4(a,b):
 separador = "-"
 print(separador * 200)
 
+# hola soy de torre desde ahora te dare una mano pára hacer el codigo 
+
