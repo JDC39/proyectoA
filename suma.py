@@ -42,3 +42,22 @@ print(separador * 200)
 
 """ este es un breve programa para hacer funciones muy sencillas al principio sera dificil pero todo estara muy bien gracias por usar este codigo"""
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""" hola fue muy agrable hacer estas funciones, aprendi mucho y me gusto mas la matematica
+descubri que me encantan las funciones, gracias a todos """
+
