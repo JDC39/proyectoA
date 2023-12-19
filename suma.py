@@ -40,3 +40,23 @@ print(separador * 200)
 
 # hola soy de torre desde ahora te dare una mano pára hacer el codigo 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""" hola fue muy agrable hacer estas funciones, aprendi mucho y me gusto mas la matematica
+descubri que me encantan las funciones, gracias a todos """
+
