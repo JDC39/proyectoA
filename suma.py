@@ -75,3 +75,11 @@ def alegria():
     
 teams = ["Ferrari", "Redbull", "AstonMartin", "Mclaren"]    
 
+
+
+# creamos el ciclo for para recorrer la lista 
+for i in teams:
+    print(i)
+    i = i + 1
+
+    
