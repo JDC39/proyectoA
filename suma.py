@@ -71,4 +71,7 @@ both1()
 def alegria():
     print("*_*")
 
+# vamos agregar un lista 
     
+teams = ["Ferrari", "Redbull", "AstonMartin", "Mclaren"]    
+
