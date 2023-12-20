@@ -68,3 +68,7 @@ def both1():
 
 both1()    
 
+def alegria():
+    print("*_*")
+
+    
