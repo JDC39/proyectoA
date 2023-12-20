@@ -61,3 +61,10 @@ print("Conlusiones")
 """ hola fue muy agrable hacer estas funciones, aprendi mucho y me gusto mas la matematica
 descubri que me encantan las funciones, gracias a todos """
 
+
+def both1():
+    saludo = "hola soy bhot en que te puedo ayudar amigo"
+    print(saludo)
+
+both1()    
+
