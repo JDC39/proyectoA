@@ -83,3 +83,6 @@ for i in teams:
     i = i + 1
 
     
+# gracias este codigo ha sido todo un exito 
+    
+    
