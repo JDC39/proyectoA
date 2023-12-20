@@ -39,7 +39,7 @@ separador = "-"
 print(separador * 200)
 
 # hola soy de torre desde ahora te dare una mano pára hacer el codigo 
-
+print("Introduccion")
 """ este es un breve programa para hacer funciones muy sencillas al principio sera dificil pero todo estara muy bien gracias por usar este codigo"""
 
 
@@ -57,7 +57,7 @@ print(separador * 200)
 
 
 
-
+print("Conlusiones")
 """ hola fue muy agrable hacer estas funciones, aprendi mucho y me gusto mas la matematica
 descubri que me encantan las funciones, gracias a todos """
 
